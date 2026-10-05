@@ -1,0 +1,1 @@
+# EJEMPLO 2. Eliminación de ruido con filtro Mediano
